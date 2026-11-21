@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "work_key": "trove24102427",
+    "title": "狂人上壽",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah News, 1899-06-10, p. 3, NLA news-page24102427",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "狂人上壽（《東華新報》1899-06-10 第3版，澳洲國家圖書館） / Kuang ren shang shou [A Long-Lived Resident of a Hospital for the Insane]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "○狂人上壽　孑厘濱屬之橋埠狂人院有西人失其常性者入該院就養至"
+            },
+            {
+              "text": "九十六歲而終按其人當壯年時效力沙場受傷深重醫未復元至有失性之病入該院二十六年又昔"
+            },
+            {
+              "text": "日在爺刺扁之病院十三年共三十九年而獲上壽乃卒諺云庸人多壽觀此信然譯六月二號西報"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 1,
+          "context": "孑厘濱",
+          "candidates": [
+            "孑厘濱",
+            "孖厘濱"
+          ],
+          "note": "首字輪廓與「孑」近似，刊報常用地名候讀「孖厘濱」。"
+        },
+        {
+          "side": "single",
+          "column": 2,
+          "context": "醫未復元",
+          "candidates": [
+            "醫未復元"
+          ],
+          "note": "保留本欄刊字，未加句讀。"
+        },
+        {
+          "side": "single",
+          "column": 3,
+          "context": "爺刺扁",
+          "candidates": [
+            "爺刺扁",
+            "爺刺厔"
+          ],
+          "note": "院名譯字末字待覆核。"
+        }
+      ],
+      "observations": "正文三欄，第一欄接上條後見空圈及本題，第三欄「西報」後為物理橫線。相鄰版題不錄。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102427",
+      "catalogue_page": 3,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24102427/level5",
+      "sha256": "e6d2e5e5baca935ef400b0e5022bd7a61d6ce9216752424e4ead7805f3d3d6f9",
+      "label": "1899-06-10 第3版",
+      "dimensions": [
+        2974,
+        3947
+      ],
+      "article_extent": [
+        1510,
+        1630,
+        1703,
+        2925
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
