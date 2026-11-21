@@ -1,0 +1,36 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 0,
+  "changes": [],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102427",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102427",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102427",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24102427",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": []
+}
